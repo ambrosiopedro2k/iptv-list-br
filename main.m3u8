@@ -1627,7 +1627,6 @@ http://saga10.pro:80/345715/562156/1263427
 http://saga10.pro:80/345715/562156/1263426
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/DX99xs.png",WOOHOO SD
 http://saga10.pro:80/345715/562156/1263425
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BR: 13 MAX" tvg-logo="" group-title="Brazil",BR: 13 MAX
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120579
 #EXTINF:-1 tvg-id="" tvg-name="BR: A&E" tvg-logo="http://fanc.tmsimg.com/assets/s77795_ll_h3_aa.png" group-title="Brazil",BR: A&E
@@ -2160,7 +2159,6 @@ http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120842
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120843
 #EXTINF:-1 tvg-id="" tvg-name="BR: WARNER" tvg-logo="" group-title="Brazil",BR: WARNER
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120844
-#EXTM3U
 #EXTINF:-1,VIP_BR:GLOBO BRASILIA HD
 http://higherpro.xyz:8080/Raquel1209/Comicheo1221/27108
 #EXTINF:-1,VIP_BR:A&E HD
